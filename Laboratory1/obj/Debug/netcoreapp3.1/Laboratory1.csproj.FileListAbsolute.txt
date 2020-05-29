@@ -1,0 +1,13 @@
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.csprojAssemblyReference.cache
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.AssemblyInfoInputs.cache
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.AssemblyInfo.cs
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\bin\Debug\netcoreapp3.1\Laboratory1.exe
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\bin\Debug\netcoreapp3.1\Laboratory1.deps.json
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\bin\Debug\netcoreapp3.1\Laboratory1.runtimeconfig.json
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\bin\Debug\netcoreapp3.1\Laboratory1.runtimeconfig.dev.json
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\bin\Debug\netcoreapp3.1\Laboratory1.dll
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\bin\Debug\netcoreapp3.1\Laboratory1.pdb
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.dll
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.pdb
+C:\Users\kunde\source\repos\Laboratory1\Laboratory1\obj\Debug\netcoreapp3.1\Laboratory1.genruntimeconfig.cache
