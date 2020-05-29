@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Dict
 
-{
+{ // Завдання Перекладач 
     class Diction
     {
         string rus;

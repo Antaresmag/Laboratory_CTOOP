@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kunde\\source\\repos\\Laboratory1\\Laboratory1\\Laboratory1.csproj": {}
+    "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory1\\Laboratory1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kunde\\source\\repos\\Laboratory1\\Laboratory1\\Laboratory1.csproj": {
+    "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory1\\Laboratory1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kunde\\source\\repos\\Laboratory1\\Laboratory1\\Laboratory1.csproj",
+        "projectUniqueName": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory1\\Laboratory1.csproj",
         "projectName": "Laboratory1",
-        "projectPath": "C:\\Users\\kunde\\source\\repos\\Laboratory1\\Laboratory1\\Laboratory1.csproj",
+        "projectPath": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory1\\Laboratory1.csproj",
         "packagesPath": "C:\\Users\\kunde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kunde\\source\\repos\\Laboratory1\\Laboratory1\\obj\\",
+        "outputPath": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kunde\\AppData\\Roaming\\NuGet\\NuGet.Config",
