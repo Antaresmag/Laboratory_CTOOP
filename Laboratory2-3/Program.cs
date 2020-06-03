@@ -58,7 +58,7 @@ namespace Dict
             string s2;
             Console.WriteLine(" \t Увага ![Введiть у консоль 'q' для виходу з режиму додавання слiв]\n\n");
             // Сворюємо цикл запису слів, в якому призначаємо словам переклад
-            do  
+            do
             {
                 Console.WriteLine("\t\t\t Введiть росiйське слово");
                 s1 = Console.ReadLine();

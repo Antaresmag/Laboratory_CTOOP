@@ -24,16 +24,16 @@
 //    {
 //       //if (pass_in == pass)
 //       //     Console.ReadLine();
-        
+
 //    }
 //    class Bankomat : Rahunok
 //    {
 //        //short pass_in;
-            
+
 //        //Console.WriteLine(pass_in.)
 
 
 //    }
 
-    
+
 //}

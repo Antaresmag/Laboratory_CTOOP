@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory2\\Laboratory2-3.csproj",
+      "projectUniqueName": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory2-3\\Laboratory2-3.csproj",
       "projectName": "Laboratory2-3",
-      "projectPath": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory2\\Laboratory2-3.csproj",
+      "projectPath": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory2-3\\Laboratory2-3.csproj",
       "packagesPath": "C:\\Users\\kunde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory2\\obj\\",
+      "outputPath": "C:\\Users\\kunde\\OneDrive\\Desktop\\Laboratory_CTOOP\\Laboratory2-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kunde\\AppData\\Roaming\\NuGet\\NuGet.Config",
