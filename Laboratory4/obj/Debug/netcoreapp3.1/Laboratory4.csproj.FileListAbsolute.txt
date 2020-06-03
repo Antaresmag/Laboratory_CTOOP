@@ -1,0 +1,13 @@
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\bin\Debug\netcoreapp3.1\Laboratory4.exe
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\bin\Debug\netcoreapp3.1\Laboratory4.deps.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\bin\Debug\netcoreapp3.1\Laboratory4.runtimeconfig.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\bin\Debug\netcoreapp3.1\Laboratory4.runtimeconfig.dev.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\bin\Debug\netcoreapp3.1\Laboratory4.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\bin\Debug\netcoreapp3.1\Laboratory4.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.csprojAssemblyReference.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.csproj.CoreCompileInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.AssemblyInfoInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.AssemblyInfo.cs
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory4\obj\Debug\netcoreapp3.1\Laboratory4.genruntimeconfig.cache
