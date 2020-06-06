@@ -1,0 +1,12 @@
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\bin\Debug\netcoreapp3.1\Laboratory5.exe
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\bin\Debug\netcoreapp3.1\Laboratory5.deps.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\bin\Debug\netcoreapp3.1\Laboratory5.runtimeconfig.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\bin\Debug\netcoreapp3.1\Laboratory5.runtimeconfig.dev.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\bin\Debug\netcoreapp3.1\Laboratory5.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\bin\Debug\netcoreapp3.1\Laboratory5.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\obj\Debug\netcoreapp3.1\Laboratory5.csproj.CoreCompileInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\obj\Debug\netcoreapp3.1\Laboratory5.AssemblyInfoInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\obj\Debug\netcoreapp3.1\Laboratory5.AssemblyInfo.cs
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\obj\Debug\netcoreapp3.1\Laboratory5.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\obj\Debug\netcoreapp3.1\Laboratory5.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory5\obj\Debug\netcoreapp3.1\Laboratory5.genruntimeconfig.cache

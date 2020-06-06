@@ -1,0 +1,12 @@
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\bin\Debug\netcoreapp3.1\Laboratory6_state.exe
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\bin\Debug\netcoreapp3.1\Laboratory6_state.deps.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\bin\Debug\netcoreapp3.1\Laboratory6_state.runtimeconfig.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\bin\Debug\netcoreapp3.1\Laboratory6_state.runtimeconfig.dev.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\bin\Debug\netcoreapp3.1\Laboratory6_state.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\bin\Debug\netcoreapp3.1\Laboratory6_state.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\obj\Debug\netcoreapp3.1\Laboratory6_state.csproj.CoreCompileInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\obj\Debug\netcoreapp3.1\Laboratory6_state.AssemblyInfoInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\obj\Debug\netcoreapp3.1\Laboratory6_state.AssemblyInfo.cs
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\obj\Debug\netcoreapp3.1\Laboratory6_state.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\obj\Debug\netcoreapp3.1\Laboratory6_state.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_state\obj\Debug\netcoreapp3.1\Laboratory6_state.genruntimeconfig.cache

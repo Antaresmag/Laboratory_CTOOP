@@ -1,0 +1,13 @@
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\bin\Debug\netcoreapp3.1\Laboratory6.exe
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\bin\Debug\netcoreapp3.1\Laboratory6.deps.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\bin\Debug\netcoreapp3.1\Laboratory6.runtimeconfig.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\bin\Debug\netcoreapp3.1\Laboratory6.runtimeconfig.dev.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\bin\Debug\netcoreapp3.1\Laboratory6.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\bin\Debug\netcoreapp3.1\Laboratory6.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.csproj.CoreCompileInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.AssemblyInfoInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.AssemblyInfo.cs
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.genruntimeconfig.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6\obj\Debug\netcoreapp3.1\Laboratory6.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\bin\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.exe
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\bin\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.deps.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\bin\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.runtimeconfig.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\bin\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.runtimeconfig.dev.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\bin\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\bin\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\obj\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\obj\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.AssemblyInfoInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\obj\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.AssemblyInfo.cs
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\obj\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\obj\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory6_Chain_of_Responsibility\obj\Debug\netcoreapp3.1\Laboratory6_Chain_of_Responsibility.genruntimeconfig.cache
