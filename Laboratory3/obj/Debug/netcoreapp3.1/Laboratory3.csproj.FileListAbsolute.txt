@@ -1,0 +1,12 @@
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\bin\Debug\netcoreapp3.1\Laboratory3.exe
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\bin\Debug\netcoreapp3.1\Laboratory3.deps.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\bin\Debug\netcoreapp3.1\Laboratory3.runtimeconfig.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\bin\Debug\netcoreapp3.1\Laboratory3.runtimeconfig.dev.json
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\bin\Debug\netcoreapp3.1\Laboratory3.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\bin\Debug\netcoreapp3.1\Laboratory3.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\obj\Debug\netcoreapp3.1\Laboratory3.csproj.CoreCompileInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\obj\Debug\netcoreapp3.1\Laboratory3.AssemblyInfoInputs.cache
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\obj\Debug\netcoreapp3.1\Laboratory3.AssemblyInfo.cs
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\obj\Debug\netcoreapp3.1\Laboratory3.dll
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\obj\Debug\netcoreapp3.1\Laboratory3.pdb
+C:\Users\kunde\OneDrive\Desktop\Laboratory_CTOOP\Laboratory3\obj\Debug\netcoreapp3.1\Laboratory3.genruntimeconfig.cache
